@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://crazysandwich4github.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Oct 2019 18:43:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://crazysandwich4github.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Use hugo build my first blog</title>
+      <link>https://crazysandwich4github.github.io/post/blog/</link>
+      <pubDate>Sat, 05 Oct 2019 18:43:11 +0800</pubDate>
+      
+      <guid>https://crazysandwich4github.github.io/post/blog/</guid>
+      <description>Use hugo build my first blog
+hugo 1.download hugo
+https://github.com/gohugoio/hugo/releases
+2.cmd input: hugo new site myblog
+3.download themes
+themes.gohugo.io
+4.hugo server -t simplicity &amp;ndash;buildDrafts
+5.hugo new post/blog.md
+git for windows git config &amp;ndash;list
+git config user.name
+git config user.email</description>
+    </item>
+    
+  </channel>
+</rss>
