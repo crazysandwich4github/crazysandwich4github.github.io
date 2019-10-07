@@ -6,10 +6,28 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Oct 2019 18:43:11 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2019 10:29:23 +0800</lastBuildDate>
     
 	<atom:link href="https://crazysandwich4github.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creat another blog and publish</title>
+      <link>https://crazysandwich4github.github.io/post/blog01/</link>
+      <pubDate>Mon, 07 Oct 2019 10:29:23 +0800</pubDate>
+      
+      <guid>https://crazysandwich4github.github.io/post/blog01/</guid>
+      <description> Creat a new blog Hugo  hugo new post/blog01.md
+ vi blog01.md
+ hugo &amp;ndash;theme=dream &amp;ndash;baseUrl=&amp;ldquo;https://crazysandwich4github.github.io/&amp;quot; &amp;ndash;buildDrafts
+  Git  git status . -s
+ git add .
+ git commit -m &amp;ldquo;creat a new blog&amp;rdquo;
+ git push
+  Publish blog Github  Creat a new branch named YOURGITHUBNAME.github.io  Git  git remote add origin https://github.com/YOURGITHUBNAME/YOURGITHUBNAME.github.io.git
+ git push -u origin master
+  </description>
+    </item>
     
     <item>
       <title>Using hugo build my first blog</title>
